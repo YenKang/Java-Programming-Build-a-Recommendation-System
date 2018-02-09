@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getItemsToRate()
+comment1.params=webRaterID
+comment1.target=void\ printRecommendationsFor(java.lang.String)
+comment2.params=
+comment2.target=void\ printError()
+comment3.params=
+comment3.target=void\ printUpperPart()
+comment4.params=
+comment4.target=void\ printCSS()
+comment5.params=
+comment5.target=void\ printLowerPart()
+numComments=6

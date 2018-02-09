@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id\ minimalRaters
+comment0.target=double\ getAverageByID(java.lang.String,\ int)
+comment1.params=minimalRaters
+comment1.target=java.util.ArrayList\ getAverageRatings(int)
+comment2.params=minimalRaters\ filterCriteria
+comment2.target=java.util.ArrayList\ getAverageRatingsByFilter(int,\ Filter)
+comment3.params=me\ r
+comment3.target=double\ dotProduct(Rater,\ Rater)
+comment4.params=id
+comment4.target=java.util.ArrayList\ getSimilarities(java.lang.String)
+comment5.params=id\ numSimilarRaters\ minimalRaters
+comment5.target=java.util.ArrayList\ getSimilarRatings(java.lang.String,\ int,\ int)
+comment6.params=id\ numSimilarRaters\ minimalRaters\ filterCriteria
+comment6.target=java.util.ArrayList\ getSimilarRatingsByFilter(java.lang.String,\ int,\ int,\ Filter)
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=anID\ aTitle\ aYear\ theGenres
+comment0.target=Movie(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=anID\ aTitle\ aYear\ theGenres\ aDirector\ aCountry\ aPoster\ theMinutes
+comment1.target=Movie(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=java.lang.String\ getGenres()
+comment6.params=
+comment6.target=java.lang.String\ getCountry()
+comment7.params=
+comment7.target=java.lang.String\ getDirector()
+comment8.params=
+comment8.target=java.lang.String\ getPoster()
+comment9.params=
+comment9.target=int\ getMinutes()
+numComments=11

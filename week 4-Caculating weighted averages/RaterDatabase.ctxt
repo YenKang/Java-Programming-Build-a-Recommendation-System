@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initialize()
+comment1.params=filename
+comment1.target=void\ initialize(java.lang.String)
+comment2.params=filename
+comment2.target=void\ addRatings(java.lang.String)
+comment3.params=raterID\ movieID\ rating
+comment3.target=void\ addRaterRating(java.lang.String,\ java.lang.String,\ double)
+comment4.params=id
+comment4.target=Rater\ getRater(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getRaters()
+comment6.params=
+comment6.target=int\ size()
+numComments=7

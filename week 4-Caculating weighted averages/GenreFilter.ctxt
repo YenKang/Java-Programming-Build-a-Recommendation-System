@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=genre
+comment0.target=GenreFilter(java.lang.String)
+comment1.params=id
+comment1.target=boolean\ satisfies(java.lang.String)
+numComments=2
