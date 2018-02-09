@@ -14,7 +14,7 @@
 > 5. Display recommended movies for a given user on a webpage.
 
 
-##Syllabus
+## Syllabus
 
 #### WEEK 1 Introducing the Recommender
 
