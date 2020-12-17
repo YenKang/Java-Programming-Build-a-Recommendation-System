@@ -1,6 +1,9 @@
 # Java-Programming-Build-a-Recommendation-System
 
 
+## My version of assignments link:https://www.dukelearntoprogram.com//capstone/recommender.php?id=PqLe8NszI2TCjM
+
+
 ### Given input files on users ratings and movie titles, you will be able to:
 
 >1. Read in and parse data into lists and maps;
